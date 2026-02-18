@@ -239,9 +239,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <p align="center">
   <b>Ahmed Mohamed Gaber</b><br/>
-  .NET Backend Developer<br/><br/>
+  Full stack .NET Backend Developer<br/><br/>
   <a href="https://github.com/AhmedMohamedGaber">🔗 GitHub</a> · <a href="https://www.linkedin.com/in/ahmed-mohamed-gaber-65bb39238/">💼 LinkedIn</a><br/><br/>
-  <i>🌙 Ramadan Kareem — May Allah accept from us and from you 🌙</i>
+  <i>🌙 Ramadan Mubarak — May Allah accept from us and from you 🌙</i>
 </p>
 
 ---
