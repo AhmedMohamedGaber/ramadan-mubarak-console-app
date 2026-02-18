@@ -128,8 +128,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ramadan-mubarak.git
-   cd ramadan-mubarak
+   git clone https://github.com/AhmedMohamedGaber/ramadan-mubarak-console-app.git
+   cd ramadan-mubarak-console-app
    ```
 
 2. **Build the project**
@@ -141,6 +141,12 @@
    ```bash
    dotnet run
    ```
+
+### ▶️ Run Directly
+
+```bash
+dotnet run --project RamadanMubarak.csproj
+```
 
 ### 💡 Best Experience Tips
 
@@ -166,10 +172,20 @@ For the best visual experience:
 
 ---
 
+## 🧠 Technical Highlights
+
+- Advanced Console animation using `Console.SetCursorPosition`
+- Unicode grapheme cluster handling for proper Arabic rendering
+- Custom animation engine using `Thread.Sleep` and cursor manipulation
+- Fully interactive menu system
+- Modular architecture with reusable rendering helpers
+
+---
+
 ## 📁 Project Structure
 
 ```
-ramadan-mubarak/
+ramadan-mubarak-console-app/
 ├── Program.cs              # Main application (all-in-one)
 ├── RamadanMubarak.csproj   # .NET project file
 ├── README.md               # This file
@@ -223,7 +239,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <p align="center">
   <b>Ahmed Mohamed Gaber</b><br/>
-  .NET Developer<br/><br/>
+  .NET Backend Developer<br/><br/>
+  <a href="https://github.com/AhmedMohamedGaber">🔗 GitHub</a> · <a href="https://www.linkedin.com/in/ahmed-mohamed-gaber-65bb39238/">💼 LinkedIn</a><br/><br/>
   <i>🌙 Ramadan Kareem — May Allah accept from us and from you 🌙</i>
 </p>
 
